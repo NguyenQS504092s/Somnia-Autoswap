@@ -1,0 +1,21 @@
+{
+  "name": "Peter Tran",
+  "version": "1.0.0",
+  "description": "Bot Auto Swap dan Claim Faucet untuk Somnia Testnet",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.3",
+    "blessed": "^0.1.81",
+    "cloudscraper": "^4.6.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "figlet": "^1.8.0",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^3.3.2"
+  }
+}
