@@ -1,1 +1,9 @@
+# .gitignore
 
+node_modules/
+
+# Thêm các file/thư mục khác cần bỏ qua ở đây (ví dụ: .env, logs, build...)
+.env
+*.log
+build/
+dist/
